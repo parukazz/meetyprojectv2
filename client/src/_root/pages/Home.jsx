@@ -1,10 +1,9 @@
-
 const Home = () => {
   return (
     <main className="main-container">
-      Hii
+      <h1>Home</h1>
     </main>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
